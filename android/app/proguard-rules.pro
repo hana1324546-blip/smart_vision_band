@@ -1,3 +1,0 @@
--keep class org.tensorflow.lite.** { *; }
--keep class com.serenegiant.** { *; }
--keep class com.herohan.uvcapp.** { *; }

@@ -1,0 +1,10 @@
+node_modules/
+.venv/
+.git/
+android/.gradle/
+android/app/build/
+build/
+*.pt
+*.tflite
+!modules/vision/android/src/main/assets/*.tflite
+android/
