@@ -1,0 +1,11 @@
+# TensorFlow 2.19 supports Python 3.12 and pairs with the legacy FP16 TFLite exporter.
+ultralytics==8.3.253
+tensorflow==2.19.0
+tf-keras==2.19.0
+ai-edge-litert>=1.2.0,<3
+onnx>=1.12.0,<2
+onnx2tf>=1.26.3
+onnxslim>=0.1.71
+onnxruntime
+onnx-graphsurgeon>=0.3.26
+sng4onnx>=1.0.1

@@ -1,0 +1,270 @@
+{
+  "file_count_excluding_inventory": 53,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 84,
+      "sha256": "f18eb839a0f8ffc538e1a05764dfe573abca2f9fd4f23ace141df7d9fce221bf"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7572,
+      "sha256": "312a67b8da234e81ee9787acf0a759969436c00516dec89689d06da586f0d5b5"
+    },
+    {
+      "path": "analysis_options.yaml",
+      "bytes": 44,
+      "sha256": "c1e9534c05acb3643e72a82ad3d92d56d2ba9b0df2add014c18f7e1d462f24e4"
+    },
+    {
+      "path": "android/app/build.gradle.kts",
+      "bytes": 1618,
+      "sha256": "c11367eff8d98e85b4ccea09b18b77e46d1e04bca952331f9d498d45c2bfd79d"
+    },
+    {
+      "path": "android/app/proguard-rules.pro",
+      "bytes": 121,
+      "sha256": "244c2d65eac203f026ebff967683d03a5f62864047d7998c073f2b305c5b6316"
+    },
+    {
+      "path": "android/app/src/main/AndroidManifest.xml",
+      "bytes": 2175,
+      "sha256": "0101c5f2ab1f6d2b2690b921c4fe2e5c67138dd7481b46ca8bf7f4186e5e8c5d"
+    },
+    {
+      "path": "android/app/src/main/assets/MODEL_REQUIRED.md",
+      "bytes": 237,
+      "sha256": "d6e2f77cdd38cf6d9f942ca4cbfc72170a6965ac9c20d77dc744d0dd6a9e14c7"
+    },
+    {
+      "path": "android/app/src/main/assets/labels.txt",
+      "bytes": 92,
+      "sha256": "09193b80b313b8128ef51e5fde60d4a3e545d71205e293c5260614bcf796d078"
+    },
+    {
+      "path": "android/app/src/main/kotlin/com/smartvisionband/MainActivity.kt",
+      "bytes": 1376,
+      "sha256": "3e9ac8ec38b1cd2438702b54bf5be42583d9b7025e7b72c03c1dd5b051417499"
+    },
+    {
+      "path": "android/app/src/main/kotlin/com/smartvisionband/ai/TfliteDetector.kt",
+      "bytes": 4360,
+      "sha256": "b92b358ef96750d1752636018d702125a96d8a9bbffaf945142cea21ea6762d2"
+    },
+    {
+      "path": "android/app/src/main/kotlin/com/smartvisionband/audio/AudioRoutePlugin.kt",
+      "bytes": 974,
+      "sha256": "dfc4f0434dc8b11020f6d66fdac3bc1f68c3e1fedcde8f02d45be25b51e24fa0"
+    },
+    {
+      "path": "android/app/src/main/kotlin/com/smartvisionband/bluetooth/BluetoothSppPlugin.kt",
+      "bytes": 4642,
+      "sha256": "fd1d24332f0c33863263114a3713a68d891341b4067a2295e4ecdeb073f26c61"
+    },
+    {
+      "path": "android/app/src/main/kotlin/com/smartvisionband/bluetooth/Protocol.kt",
+      "bytes": 326,
+      "sha256": "456b99fa9403b06f58e7418efa9253193b2be46e2c8c8dea2c9a8d1977c76750"
+    },
+    {
+      "path": "android/app/src/main/kotlin/com/smartvisionband/camera/UvcCameraPlugin.kt",
+      "bytes": 1736,
+      "sha256": "0c714ef7dafb8b61caacbb01931ef170ca1d88db9f72eafaef1a3417a6ff331a"
+    },
+    {
+      "path": "android/app/src/main/kotlin/com/smartvisionband/service/NavigationForegroundService.kt",
+      "bytes": 1491,
+      "sha256": "74a7797b42967aabf8c6620dd0748403e125d9eebd5934cf06388ae83fd05abf"
+    },
+    {
+      "path": "android/app/src/main/res/values/styles.xml",
+      "bytes": 203,
+      "sha256": "056a32aa887c847d698f287d6cf87b6cc4956efe4ce2d4625e53d00b0711530f"
+    },
+    {
+      "path": "android/app/src/test/kotlin/com/smartvisionband/ProtocolTest.kt",
+      "bytes": 303,
+      "sha256": "4f26030f2198bf3a54bf2be32c9fd06562211c0b323247b798965c10ca5fb89e"
+    },
+    {
+      "path": "android/build.gradle.kts",
+      "bytes": 287,
+      "sha256": "f9eb94f7c44e1f43ef08901362dcc29f1b80b70c8e6438afbc8080c0b9a98e43"
+    },
+    {
+      "path": "android/gradle/wrapper/gradle-wrapper.properties",
+      "bytes": 200,
+      "sha256": "f83fd11364dfd555c710c7db1073cea5e8a58a01e28752b2d04bf08132d8d6b5"
+    },
+    {
+      "path": "android/gradle.properties",
+      "bytes": 101,
+      "sha256": "e24233a3aa98f5ef32416dae552511d2748e91e401a9ea1506e9e2fbe523d068"
+    },
+    {
+      "path": "android/key.properties.example",
+      "bytes": 128,
+      "sha256": "c9d85b621b1be50776a36c452bc5b692eebcd5586d6508a8463088985c1568bd"
+    },
+    {
+      "path": "android/settings.gradle.kts",
+      "bytes": 572,
+      "sha256": "10ae9810c442f7e28cdefb3d1ec76760dab6edb9ffb94bda1a69afbffecc35ec"
+    },
+    {
+      "path": "docs/CAMERA.md",
+      "bytes": 2450,
+      "sha256": "b9592dafa3211e57e7776ea2abf0f48b01c4d4f9879c4dd2070a80f86e49772d"
+    },
+    {
+      "path": "docs/CHANNELS.md",
+      "bytes": 1287,
+      "sha256": "da2af6749f0878a78677555098a853a8bcbe048aa9bab0de0922115e4fbd4953"
+    },
+    {
+      "path": "docs/PROTOCOL.md",
+      "bytes": 1911,
+      "sha256": "cd6a558786b941dd15bec2cbc38c5485db7cb543e4cbc12b75a39eab31effae9"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 3138,
+      "sha256": "3f963fbcc716bbc2d04aca7e7fab7f585dadedf1c7fbc39b811006a73a6e8dc0"
+    },
+    {
+      "path": "lib/app.dart",
+      "bytes": 6521,
+      "sha256": "adb394fb790b44567258580be656fe9b7278c009d1fc25b7dedc098b97fbc84f"
+    },
+    {
+      "path": "lib/core/constants.dart",
+      "bytes": 101,
+      "sha256": "938cc76070724d907909ddbfef559822ba0d2a385514e89e5c1656aa8e4d5320"
+    },
+    {
+      "path": "lib/core/permissions.dart",
+      "bytes": 506,
+      "sha256": "516f1114f121d72eccd07faab1259149941ee31080e32005c78941d10948f35a"
+    },
+    {
+      "path": "lib/features/caregiver/README.md",
+      "bytes": 109,
+      "sha256": "5ac55de57b852a78ddb121e62375a51e119cc66830bc9af48999ff053c71b78f"
+    },
+    {
+      "path": "lib/features/debug/README.md",
+      "bytes": 109,
+      "sha256": "5ac55de57b852a78ddb121e62375a51e119cc66830bc9af48999ff053c71b78f"
+    },
+    {
+      "path": "lib/features/hub/README.md",
+      "bytes": 109,
+      "sha256": "5ac55de57b852a78ddb121e62375a51e119cc66830bc9af48999ff053c71b78f"
+    },
+    {
+      "path": "lib/features/live/README.md",
+      "bytes": 109,
+      "sha256": "5ac55de57b852a78ddb121e62375a51e119cc66830bc9af48999ff053c71b78f"
+    },
+    {
+      "path": "lib/features/settings/README.md",
+      "bytes": 109,
+      "sha256": "5ac55de57b852a78ddb121e62375a51e119cc66830bc9af48999ff053c71b78f"
+    },
+    {
+      "path": "lib/features/splash/README.md",
+      "bytes": 109,
+      "sha256": "5ac55de57b852a78ddb121e62375a51e119cc66830bc9af48999ff053c71b78f"
+    },
+    {
+      "path": "lib/main.dart",
+      "bytes": 224,
+      "sha256": "ea183e164f9835fa89fc4f91775cc9e3f85de36c4bf48c76c111906237f13e83"
+    },
+    {
+      "path": "lib/models/danger_level.dart",
+      "bytes": 203,
+      "sha256": "5c7a0098862c055121b2df185e8cadcf4a80b4b4d307c62fd12b3d11ab43f429"
+    },
+    {
+      "path": "lib/models/detection.dart",
+      "bytes": 416,
+      "sha256": "fae85ea12a8a3e309c141afdfef9166b667304216da57be428dd285ec0db3c47"
+    },
+    {
+      "path": "lib/models/distance_event.dart",
+      "bytes": 518,
+      "sha256": "c4bde412c042566dd71077a7f71e0bc17ec4e5cbbf38475314a87af25322bd07"
+    },
+    {
+      "path": "lib/providers/app_state_providers.dart",
+      "bytes": 4870,
+      "sha256": "a580c20ed9be9bfaecd3602cf11383702ca1fef6fd9e39b1a790370f02b298e7"
+    },
+    {
+      "path": "lib/services/audio_route_service.dart",
+      "bytes": 274,
+      "sha256": "0ecc76de5d18627f2e4d7e9a5af235df8dc7530d02fb2102f04268b6427e13de"
+    },
+    {
+      "path": "lib/services/bluetooth_service.dart",
+      "bytes": 445,
+      "sha256": "3d92ac476c40eb6c24ecc4a9496b3889c0962ca5f9bc027acead2b9f35a1055d"
+    },
+    {
+      "path": "lib/services/camera_channel_service.dart",
+      "bytes": 234,
+      "sha256": "9bf3dbb953dc2fa463a81cbdcf70e1be53d7991d1ad15aa7c501c211228ce425"
+    },
+    {
+      "path": "lib/services/event_repository.dart",
+      "bytes": 1709,
+      "sha256": "4321d9647901cde02931d1f67355ae20c9874003f5eb09e6a2ca381ae5c2b01e"
+    },
+    {
+      "path": "lib/services/foreground_service.dart",
+      "bytes": 229,
+      "sha256": "ef6e8f0c3cbc4661f385395e4f7f02aec1f6cf83d506cd254333336cd449617b"
+    },
+    {
+      "path": "lib/services/platform_bridge.dart",
+      "bytes": 604,
+      "sha256": "498cd181ca1650051f77c2001c68c23278601fddaa968caad7dbf21e97e2949f"
+    },
+    {
+      "path": "lib/services/sensor_fusion_service.dart",
+      "bytes": 1822,
+      "sha256": "8753da2150ebdf9017218350334f9dd9ef7ae617e75d7c8f1fcbd722130f6292"
+    },
+    {
+      "path": "lib/services/tflite_channel_service.dart",
+      "bytes": 245,
+      "sha256": "1bf508d25f1aeecc01ed5e04699c7af251fe386cde927f6f07be7f563d3dca32"
+    },
+    {
+      "path": "lib/services/tts_service.dart",
+      "bytes": 756,
+      "sha256": "834ffc9e00479c8666efb1904e1ce548a13a3d30848ad3b73fa68d02167383c2"
+    },
+    {
+      "path": "pubspec.yaml",
+      "bytes": 531,
+      "sha256": "1bdb0316fe606037b904c7285ad58190d8f5932ab2dfbb12f1a94fa07b0cd9cb"
+    },
+    {
+      "path": "scripts/bootstrap.sh",
+      "bytes": 695,
+      "sha256": "65746d87f4f8bb66fdb592ed6a4888d65f43efcf9a2f90d0112a81e1504e8269"
+    },
+    {
+      "path": "test/fusion_test.dart",
+      "bytes": 1690,
+      "sha256": "f06e1d1624087bb29e5b1ab48f9789a8dd3d9df9c8f374fba99acda2fffdfd3d"
+    },
+    {
+      "path": "test/protocol_test.dart",
+      "bytes": 458,
+      "sha256": "d54f31e8f8e275e8c11bb4e338c43eca2867c6a72cfaa3c2d4a069ded6709751"
+    }
+  ]
+}
